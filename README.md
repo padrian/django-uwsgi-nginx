@@ -1,4 +1,4 @@
-# Django, uWSGI and Nginx in a container, using Supervisord
+#Django, uWSGI and Nginx in a container, using Supervisord
 
 This Dockerfile shows you *how* to build a Docker container with a fairly standard
 and speedy setup for Django with uWSGI and Nginx.
